@@ -18,6 +18,7 @@ The Dice Roll Simulation is a simple web application that simulates the roll of 
 - **CSS**: For styling the web page.
 - **JavaScript**: For the logic of generating random numbers and updating the UI.
 
-- Live Demo
+## Live Demo
+
 You can view the live demo of the Dice Roll Simulation project on Netlify:
-dice-roll-simulation01.netlify.app
+[Dice Roll Simulation on Netlify](dice-roll-simulation01.netlify.app)
