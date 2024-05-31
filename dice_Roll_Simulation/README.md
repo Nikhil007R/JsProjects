@@ -21,4 +21,4 @@ The Dice Roll Simulation is a simple web application that simulates the roll of 
 ## Live Demo
 
 You can view the live demo of the Dice Roll Simulation project on Netlify:
-[Dice Roll Simulation on Netlify](dice-roll-simulation01.netlify.app)
+[dice-roll-simulation01.netlify.app](https://dice-roll-simulation01.netlify.app/)
